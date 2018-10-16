@@ -20,8 +20,8 @@ public class PruebaClonarGit {
         System.out.println("Prueba de clonar git");
         int prueba;
         float p;
-        
-
+       //Prueba compartir con un compañero
+        System.out.println("Hola");
     }
 
 }
